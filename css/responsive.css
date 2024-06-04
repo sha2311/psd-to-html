@@ -70,4 +70,7 @@
         width: 100%;
         text-align: center;
     }
+    .search_area input{
+        border-radius: 25%;
+    }
 }
